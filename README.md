@@ -1,94 +1,146 @@
+<!-- ========================================= -->
+<!--         FUTURISTIC GITHUB PROFILE         -->
+<!-- ========================================= -->
 
-<!-- =============================== -->
-<!--      FUTURISTIC GITHUB PROFILE   -->
-<!-- =============================== -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C6FF,50:6C63FF,100:8A2BE2&text=Abdul%20Rehman&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Java%20Developer%20%7C%20Future%20DevOps%20Engineer&descAlignY=58"/>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C6FF,50:6C63FF,100:8A2BE2&text=Abdul%20Rehman&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20DevOps%20Engineer%20in%20Progress&descAlignY=58"/>
-
-<h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
+<h1 align="center">Hi 👋 I'm Abdul Rehman</h1>
 
 <h3 align="center">
-AI Enthusiast • Java Developer • Computer Science Student • Future AI-Augmented DevOps Engineer
+AI Enthusiast • Java Developer • Computer Science Student
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Computer+Vision;Java+Developer;Learning+Docker+%26+Cloud;Building+Real-World+AI+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Computer+Vision;Java+Developer;Future+AI-Augmented+DevOps+Engineer;Always+Learning+Something+New"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 💻 About Me
 
-- 🎓 B.Tech Computer Science Student
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 💻 Currently learning Java, DSA, SQL, Docker & Linux
-- 👁 Exploring Computer Vision and YOLO
-- ☁️ Learning Cloud Computing
-- 🚀 Building real-world AI projects
-- 🎯 Goal: Become an **AI-Augmented DevOps Engineer**
+```bash
+$ whoami
+
+Name      : Abdul Rehman
+Education : B.Tech Computer Science
+Role      : AI Enthusiast
+
+Interests
+│
+├── Artificial Intelligence
+├── Machine Learning
+├── Computer Vision
+├── Java Development
+├── Data Structures & Algorithms
+├── SQL
+├── Docker
+├── Linux
+└── Cloud Computing
+
+Mission:
+Become an AI-Augmented DevOps Engineer 🚀
+```
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Current Focus
+
+- ☕ Java
+- 📚 Data Structures & Algorithms
+- 🗄 SQL
+- 🤖 AI Projects
+- 👁 Computer Vision
+- 🐳 Docker
+- 🐧 Linux
+- ☁ Cloud Computing
+
+---
+
+# 💻 My Daily Loop
+
+```java
+while(alive){
+
+    Learn();
+
+    Code();
+
+    Build();
+
+    Improve();
+
+    Repeat();
+
+}
+```
+
+---
+
+# ⚙ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql"/>
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql"/>
+
 </p>
 
-### AI & Machine Learning
+### AI & ML
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-AI-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/YOLO-DeepLearning-blueviolet?style=for-the-badge"/>
+
 </p>
 
 ### Tools
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea"/>
+
 </p>
 
 ### Future Technologies
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,jenkins"/>
+
 </p>
 
 ---
 
-## 📚 Currently Learning
+# 🤖 Featured Projects
 
-- ☕ Java
-- 📖 Data Structures & Algorithms
-- 🗄 SQL
-- 🐳 Docker
-- 🐧 Linux
-- ☁️ Cloud Computing
-- 🤖 AI & Machine Learning
+### ♻ Medical Waste Detection using Machine Learning
+
+AI system for classifying medical waste using machine learning.
 
 ---
-
-## 🚀 Featured Projects
-
-### ♻️ Medical Waste Detection using Machine Learning
-
-AI-powered system for identifying medical waste using image classification.
 
 ### 👁 Computer Vision Projects
 
-Image processing and object detection applications.
-
-### 🎯 YOLO-Based AI Projects
-
-Real-time object detection using YOLO.
+Image processing and object detection using OpenCV.
 
 ---
 
-## 📊 GitHub Stats
+### 🎯 YOLO AI Projects
+
+Real-time object detection with YOLO.
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -100,7 +152,7 @@ Real-time object detection using YOLO.
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -110,17 +162,7 @@ Real-time object detection using YOLO.
 
 ---
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShaikDadaKhalandhar&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
 
@@ -130,7 +172,41 @@ Real-time object detection using YOLO.
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShaikDadaKhalandhar&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# ⚡ Terminal
+
+```bash
+> Initializing AI Environment...
+
+██████████████████████ 100%
+
+Loading Java...
+Loading Machine Learning...
+Loading Docker...
+Loading Linux...
+Loading Cloud...
+
+Status : READY 🚀
+```
+
+---
+
+# 💡 Favorite Quote
+
+> "The best way to predict the future is to build it."
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -138,7 +214,7 @@ Real-time object detection using YOLO.
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/your-linkedin-url">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -150,12 +226,6 @@ Real-time object detection using YOLO.
 
 ---
 
-## 💡 Developer Quote
-
-> "The best way to predict the future is to build it."
-
----
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=ShaikDadaKhalandhar&style=for-the-badge&color=blueviolet"/>
@@ -164,8 +234,14 @@ Real-time object detection using YOLO.
 
 <p align="center">
 
-⭐ If you like my work, consider giving a star to my repositories!
+### 🚀 "Code • Learn • Build • Repeat"
+
+⭐ If you like my projects, consider giving them a star!
 
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C6FF,50:6C63FF,100:8A2BE2"/>
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:00C6FF,50:6C63FF,100:8A2BE2"/>
+
+</p>
