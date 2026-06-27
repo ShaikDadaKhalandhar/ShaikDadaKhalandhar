@@ -1,4 +1,4 @@
-```markdown
+
 <!-- =============================== -->
 <!--      FUTURISTIC GITHUB PROFILE   -->
 <!-- =============================== -->
@@ -169,5 +169,3 @@ Real-time object detection using YOLO.
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C6FF,50:6C63FF,100:8A2BE2"/>
-
-```
