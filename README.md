@@ -29,14 +29,15 @@ Role      : AI Enthusiast
 
 Interests
 │
+├── Product Management
+├── Program Management
+├── Operations Management
 ├── Artificial Intelligence
 ├── Machine Learning
 ├── Computer Vision
 ├── Java Development
-├── Data Structures & Algorithms
 ├── SQL
 ├── Docker
-├── Linux
 └── Cloud Computing
 
 Mission:
