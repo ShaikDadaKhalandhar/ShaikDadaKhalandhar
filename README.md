@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C6FF,50:6C63FF,100:8A2BE2&text=Abdul%20Rehman&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Java%20Developer%20%7C%20Future%20DevOps%20Engineer&descAlignY=58"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Abdul Rehman</h1>
+<h1 align="center">Hi 👋 I'm Shaik Dada Khalndhar </h1>
 
 <h3 align="center">
 AI Enthusiast • Java Developer • Computer Science Student
