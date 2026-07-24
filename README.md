@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋 I'm Shaik Dada Khalndhar </h1>
 
 <h3 align="center">
-AI Enthusiast • Java Developer • Computer Science Student
+Aspiring Product Manager • AI Enthusiast  • Computer Science Student
 </h3>
 
 <p align="center">
@@ -23,9 +23,9 @@ AI Enthusiast • Java Developer • Computer Science Student
 ```bash
 $ whoami
 
-Name      : Abdul Rehman
+Name      : Shaik Dada Khalandhar
 Education : B.Tech Computer Science
-Role      : AI Enthusiast
+Role      : Product Manager
 
 Interests
 │
